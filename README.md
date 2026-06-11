@@ -16,7 +16,6 @@ Before moving into infrastructure I was a computational-physics researcher (ab-i
 | --------------------------------------------------------------------- | --------------------------------------------------------------------- |
 | [phonon-lifetimes](https://github.com/glensk/phonon-lifetimes)         | Phonon power-spectra, frequencies and lifetimes from MD trajectories |
 | [Local-Anharmonic-MD](https://github.com/glensk/Local-Anharmonic-MD)   | Local anharmonic molecular-dynamics simulation (C)                   |
-| [organize-my-pdfs](https://github.com/glensk/organize-my-pdfs)         | OCR + auto-file scanned PDFs by content patterns                     |
 
 ## Contact
 

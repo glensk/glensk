@@ -5,10 +5,10 @@ Before moving into infrastructure I was a computational-physics researcher (ab-i
 
 ## What I work on
 
-- **GPU / ML platform operations** — Run:ai and Kubernetes GPU clusters on CSCS Alps (GH200) and SWITCH Engines: cluster lifecycle, storage (CephFS, S3/Ceph), user and project provisioning
-- **Infrastructure automation** — Python CLIs around every API I operate: OpenStack, Kubernetes, Keycloak, GitLab, Slack, S3, DNS and email providers
+- **GPU / ML platform operations** — Nvidia Run:ai and Kubernetes GPU clusters on CSCS Alps (GH200) and SWITCH Engines: cluster lifecycle, storage (CephFS, S3/Ceph/WebDAV/NAS), user and project provisioning
+- **Infrastructure automation** — Python CLIs around every API thinkable, I operate e.g.: OpenStack, Kubernetes, Keycloak, GitLab, Slack, S3, DNS and email providers
 - **Declarative systems & homelab** — NixOS servers, Home Assistant, declarative phone management with GrapheneOS
-- **Developer tooling** — AI-assisted git workflows, repo fleet management, LLM usage tracking
+- **Developer tooling** — AI-assisted git workflows, repo fleet management, LLM usage optimization
 
 ## Selected repositories
 
